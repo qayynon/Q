@@ -1,11 +1,12 @@
-## Welcome to GitHub Pages
+## :frog: "Come on man" - Joe "its the blow" Biden
 
-You can use the [editor on GitHub](https://github.com/qayynon/Q/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Theyre putting chemicals in the water that turn the friggin frogs gay!** [editor on GitHub](https://github.com/qayynon/Q/blob/main/AluminiumHatGenius.gif) Have you ever had a dream,that you were so sure was real? What if you were unable to wake from that dream? How would you know the difference between the dream world and the real world?
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-![**>Checkem**] (https://github.com/qayynon/Q/blob/main/original.jpg)
+:ok_hand:**>Checkem**
+![TheseGets.jpg](https://github.com/qayynon/Q/blob/main/original.jpg)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
