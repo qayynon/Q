@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 :ok_hand:**>Checkem**
-!<img src="https://github.com/qayynon/Q/blob/main/original.jpg" width=750
+<img src="https://github.com/qayynon/Q/blob/main/original.jpg" width=750
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
