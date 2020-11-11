@@ -2,7 +2,7 @@
 __________________________________________
 <img src="https://github.com/qayynon/Q/blob/main/AluminiumHatGenius.gif" width=1000>
 **Theyre putting chemicals in the water that turn the friggin frogs gay!**
-__________________________________________
+
 >Have you ever had a dream,that you were so sure was real? 
 >What if you were unable to wake from that dream? 
 >How would you know the difference between the dream world and the real world?
