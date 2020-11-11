@@ -1,6 +1,6 @@
 ## :frog: "Come on man" - Joe "its the blow" Biden
 
-![alexjonesgif](.https://github.com/qayynon/Q/blob/main/AluminiumHatGenius.gif) 
+!<img src="https://github.com/qayynon/Q/blob/main/AluminiumHatGenius.gif" width=1000>
 ~Theyre putting chemicals in the water that turn the friggin frogs gay!~ 
 >Have you ever had a dream,that you were so sure was real? 
 >What if you were unable to wake from that dream? 
